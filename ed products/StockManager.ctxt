@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StockManager()
+comment0.text=\r\n\ Initialise\ the\ stock\ manager.\r\n
+comment1.params=item
+comment1.target=void\ addProduct(Product)
+comment1.text=\r\n\ Add\ a\ product\ to\ the\ list.\r\n\ @param\ item\ The\ item\ to\ be\ added.\r\n
+comment2.params=
+comment2.target=void\ printProductDetails()
+comment3.params=id
+comment3.target=Product\ findProduct(int)
+comment4.params=id
+comment4.target=int\ numberInStock(int)
+comment5.params=amount\ id
+comment5.target=void\ delivery(int,\ int)
+comment6.params=stockSearch
+comment6.target=void\ lowStock(int)
+comment7.params=name
+comment7.target=Product\ findProduct(java.lang.String)
+numComments=8
