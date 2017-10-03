@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawingTool()
+comment0.text=\r\n\ Prepare\ to\ draw\ on\ a\ canvas\ of\ default\ size.\r\n
+comment1.params=width\ height
+comment1.target=DrawingTool(int,\ int)
+comment1.text=\r\n\ Prepare\ to\ draw\ on\ a\ canvas\ of\ specified\ size.\r\n\ @param\ width\ The\ canvas\ width.\r\n\ @param\ height\ The\ canvas\ height.\r\n
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ Initiates\ the\ drawing\ command\ interface\ and\r\n\ uses\ user\ input\ to\ effect\ drawing\ mechanics\ via\ \r\n\ sorting\ methods\ and\ DrawAssist\r\n
+numComments=3

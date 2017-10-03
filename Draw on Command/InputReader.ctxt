@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=InputReader()
+comment0.text=\r\n\ Create\ a\ new\ InputReader\ that\ reads\ text\ from\ the\ text\ terminal.\r\n
+comment1.params=
+comment1.target=java.util.LinkedList\ getInput()
+comment1.text=\r\n\ Read\ a\ line\ of\ text\ from\ standard\ input\ (the\ text\ terminal),\r\n\ and\ return\ it\ as\ a\ list\ of\ words.\r\n\r\n\ @return\ \ A\ list\ of\ Strings,\ where\ each\ String\ is\ one\ of\ the\ \r\n\ \ \ \ \ \ \ \ \ \ words\ typed\ by\ the\ user.\r\n
+comment2.params=word
+comment2.target=int\ convertToInteger(java.lang.String)
+comment2.text=\r\n\ Convert\ the\ given\ string\ to\ an\ integer.\r\n\ NB\:\ It\ is\ assumed\ that\ the\ string\ has\ already\ been\ checked\r\n\ for\ validity.\ An\ exception\ will\ be\ thrown\ if\ the\ string\r\n\ is\ not\ a\ valid\ integer.\r\n\ @param\ word\ The\ string\ to\ be\ converted.\r\n\ @return\ The\ integer\ represented\ by\ the\ parameter.\r\n
+comment3.params=word
+comment3.target=boolean\ isAnInteger(java.lang.String)
+comment3.text=\r\n\ Determine\ whether\ the\ given\ string\ is\ an\ integer\ or\ not.\r\n\ @return\ true\ if\ it\ is\ an\ integer,\ false\ otherwise.\r\n
+numComments=4
