@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=myName\ myAge
+comment0.target=Person(java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Person\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ return\ name\r\n
+comment2.params=amount
+comment2.target=void\ setAge(int)
+comment2.text=\r\n\ change\ age\r\n
+comment3.params=
+comment3.target=void\ printDetails()
+comment3.text=\r\n\ GET\ NAME\r\n
+numComments=4

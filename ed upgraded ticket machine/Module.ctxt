@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=moduleCode
+comment0.target=Module(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Module\r\n
+comment1.params=
+comment1.target=java.lang.String\ getCode()
+comment1.text=\r\n\ return\ the\ code\ of\ a\ module.\r\n
+numComments=2
